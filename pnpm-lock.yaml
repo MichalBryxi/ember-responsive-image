@@ -92,8 +92,8 @@ importers:
         specifier: 3.5.0
         version: 3.5.0
       rollup-plugin-node-externals:
-        specifier: 6.1.2
-        version: 6.1.2(rollup@4.9.6)
+        specifier: 7.0.0
+        version: 7.0.0(rollup@4.9.6)
       sharp:
         specifier: 0.33.2
         version: 0.33.2
@@ -657,8 +657,8 @@ importers:
         specifier: 3.5.0
         version: 3.5.0
       rollup-plugin-node-externals:
-        specifier: 6.1.2
-        version: 6.1.2(rollup@4.9.6)
+        specifier: 7.0.0
+        version: 7.0.0(rollup@4.9.6)
       rollup-plugin-ts:
         specifier: 3.4.5
         version: 3.4.5(@babel/core@7.23.9)(@babel/preset-typescript@7.23.3)(rollup@4.9.6)(typescript@5.3.3)
@@ -12159,9 +12159,9 @@ packages:
       del: 5.1.0
     dev: true
 
-  /rollup-plugin-node-externals@6.1.2(rollup@4.9.6):
-    resolution: {integrity: sha512-2TWan0u0/zHcgPrKpIPgKSY8OMqwDAYD380I0hxx7iUQw8mrN34DWwG9sQUMEo5Yy4xd6/5QEAySYgiKN9fdBQ==}
-    engines: {node: '>=16.0.0'}
+  /rollup-plugin-node-externals@7.0.0(rollup@4.9.6):
+    resolution: {integrity: sha512-EcPXBAP7S5Yk3JUe4njDeiRyAYquuC6AcbFUuEQdd5PrkXy0ysmMDMiG2cpR2tUQF0wdBfhMvUAetl3bGWPeww==}
+    engines: {node: '>= 21 || ^20.6.0 || ^18.19.0'}
     peerDependencies:
       rollup: ^3.0.0 || ^4.0.0
     dependencies:
